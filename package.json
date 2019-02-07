@@ -1,0 +1,24 @@
+{
+  "name": "com.hoangna.convertfonenumber",
+  "version": "1.0.0",
+  "description": "Convert 11 numbers phone format to 10 numbers phone format for Vietnam's telcom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "convert",
+    "number",
+    "11",
+    "10",
+    "vietnam"
+  ],
+  "author": "shiva8x@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "line-by-line": "^0.1.6",
+    "minimist": "^1.2.0",
+    "path": "^0.12.7",
+    "xlsx": "^0.14.1"
+  }
+}
