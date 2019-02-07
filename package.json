@@ -1,6 +1,6 @@
 {
   "name": "com.hoangna.convertfonenumber",
-  "version": "1.0.0",
+  "version": "1.1",
   "description": "Convert 11 numbers phone format to 10 numbers phone format for Vietnam's telcom",
   "main": "index.js",
   "scripts": {
